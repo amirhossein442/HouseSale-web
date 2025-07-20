@@ -322,11 +322,11 @@ header nav ul a:hover {
 
 @media(max-width: 400px) {
     .phon input {
-        width: 13em;
+        width: 15em;
     }
 
     .search-bar button {
-        left: 120px;
+        left: 147px;
     }
 
     .phon {
